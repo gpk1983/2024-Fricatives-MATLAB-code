@@ -9,7 +9,7 @@ The current script runs analyses on the intervocalic fricative /s/. In order to 
 
 ### Annotation labels
 Fricative /s/: s_c
-Vowel: Vx_y, where x=1 when preceding /s/ and x=2 when following /s/, y=1 when stressed and y=2 when unstressed.
+Vowel: Vx_y, where x=1 when preceding /s/ and x=2 when following /s/, y=1 when stressed and y=2 when unstressed. Please refer to the .TextGrid files in `SAMPLES` folder for more information.
 
 ### Additional information
 Vowel identity is extracted from folder name. Folders are named after the disyllable and include stress information, e.g. _pisi for [ 'pisi ] and pi_si for [ pi'si ].

@@ -23,3 +23,11 @@ A `SAMPLES` folder is provided with sample recordings from the first author.
 2. Run `writeResults.m`: a .TXT file is constructed with the features discussed in the paper for each .WAV file.
 
 3. The .TXT output can be imported to Excel and turned into a CSV for convenience.
+
+## HOWTO for new data:
+
+1. Create a folder similar to the one provided (`SAMPLES`).
+
+2. Include a .WAV file recording and annotations in .TextGrid format.
+
+3. Run the two .m scripts. Make sure you change path names (usually in the first 2-3 lines of each file).

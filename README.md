@@ -5,7 +5,7 @@
 
 ### MATLAB source code 
 
-The current script runs analyses on the intervocalic fricative /s/. In order to run the code you need a folder similar to the one provided (`SAMPLES`) that includes pairs of .WAV recordings and .TextGrid files that contain Praat-based annotations. 
+The current script runs analyses on the intervocalic fricative /s/. In order to run the code you need a folder similar to the one provided (`SAMPLES`) that includes pairs of .WAV recordings and .TextGrid files that contain Praat-based annotations. This code has been tested on MATLAB 2018a.
 
 Annotation labels
 Fricative /s/: s_c

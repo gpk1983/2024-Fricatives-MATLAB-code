@@ -7,11 +7,11 @@
 
 The current script runs analyses on the intervocalic fricative /s/. In order to run the code you need a folder similar to the one provided (`SAMPLES`) that includes pairs of .WAV recordings and .TextGrid files that contain Praat-based annotations. This code has been tested on MATLAB 2018a.
 
-Annotation labels
+### Annotation labels
 Fricative /s/: s_c
-Vowel: Vx_y, where x=1 when preceding /s/ and x=2 when following /s/, y=1 when stressed and y=2 when unstressed
+Vowel: Vx_y, where x=1 when preceding /s/ and x=2 when following /s/, y=1 when stressed and y=2 when unstressed.
 
-Additional information
+### Additional information
 Vowel identity is extracted from folder name. Folders are named after the disyllable and include stress information, e.g. _pisi for [ 'pisi ] and pi_si for [ pi'si ].
 
 A `SAMPLES` folder is provided with sample recordings from the first author.

@@ -22,4 +22,4 @@ A `SAMPLES` folder is provided with sample recordings from the first author.
 
 2. Run `writeResults.m`: a .TXT file is provided.
 
-3. The output can be imported to Excel and turned into a CSV.
+3. The .TXT output can be imported to Excel and turned into a CSV.

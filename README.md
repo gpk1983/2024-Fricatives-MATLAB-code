@@ -31,3 +31,8 @@ A `SAMPLES` folder is provided with sample recordings from the first author.
 2. Include .WAV file recordings and annotations in .TextGrid format.
 
 3. Run the two .m scripts. Make sure you change path names if necessary (usually in the first 2-3 lines of each file).
+
+---
+
+If you find this code useful, please cite it as:
+Sfakianaki, A., Nicolaidis, K., & Kafentzis, G. P. (2024). Temporal, spectral and amplitude characteristics of the Greek fricative /s/ in hearing-impaired and normal-hearing speech. Clinical Linguistics & Phonetics, 1–27. https://doi.org/10.1080/02699206.2023.2301308

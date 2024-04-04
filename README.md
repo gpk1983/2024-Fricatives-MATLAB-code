@@ -18,8 +18,8 @@ A `SAMPLES` folder is provided with sample recordings from the first author.
 
 ## HOWTO:
 
-1. Run `readextract.m`: a series of MAT files are provided for each .WAV file.
+1. Run `readextract.m`: a series of MAT files are constructed for each .WAV file.
 
-2. Run `writeResults.m`: a .TXT file is provided.
+2. Run `writeResults.m`: a .TXT file is constructed with the features discussed in the paper for each .WAV file.
 
-3. The .TXT output can be imported to Excel and turned into a CSV.
+3. The .TXT output can be imported to Excel and turned into a CSV for convenience.

@@ -28,6 +28,6 @@ A `SAMPLES` folder is provided with sample recordings from the first author.
 
 1. Create a folder similar to the one provided (`SAMPLES`).
 
-2. Include a .WAV file recording and annotations in .TextGrid format.
+2. Include .WAV file recordings and annotations in .TextGrid format.
 
-3. Run the two .m scripts. Make sure you change path names (usually in the first 2-3 lines of each file).
+3. Run the two .m scripts. Make sure you change path names if necessary (usually in the first 2-3 lines of each file).
